@@ -1,7 +1,7 @@
 # Face-Mask-Detection
 Mask Detection using OpenCV
--<b>Prerequisites</b>
--OpenCV
+<br><b>Prerequisites</b></br>
+<br>OpenCV</br>
 -Numpy
 -
 -
