@@ -1,13 +1,13 @@
 # Face-Mask-Detection
 <br></br>
 Mask Detection using OpenCV
-<br><b>Prerequisites</b></br>
+<br></br>
+<b>Prerequisites</b>
 <br>OpenCV</br>
 Numpy
 
 <b>Methodology</b>
-
-1.Place some test images in Test folder that we want to predict in the facemask.py file.
+<br>1.Place some test images in Test folder that we want to predict in the facemask.py file.</br>
 <br>2.Place images for training the classifier in Train folder. Here, two types of recognizations are done, nanely "Mask" and "No mask".
 We add pictures of each category in seperate folders within the Train folder and label them as 0 and 1.
 We add names to these labels in the facemask.py file in the "name" variable.</br>
